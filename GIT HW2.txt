@@ -1,0 +1,5 @@
+1) git restore
+2) git reset
+3) git revert
+4) git checkout -b
+5) gh repo create (GitHub CL)
